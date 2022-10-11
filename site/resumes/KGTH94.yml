@@ -1,11 +1,11 @@
 template: "online-cv"
-skin: "orange"
+skin: "blue"
 
 basic_info:
 
 
-    first_name: Mark
-    last_name: Mulville
+    first_name: Kengee
+    last_name: Andrade
     
     
     motto: Dedication, learning, caring, helping, active
@@ -15,8 +15,7 @@ basic_info:
     
     
     summary: |
-      I am an active outdoorsy person who also enjoys being indoors and spending time on the computer. 
-      I was a professional bike rider for many years and after that, I have been an insurance adjuster for several years. 
+      I am an active outdoorsy person who also enjoys being indoors and spending time on the computer.
       For quite a while now, I have had an interest in web development. So I decided to jump in and take on web development head on. 
 
     
@@ -24,10 +23,9 @@ basic_info:
     avatar: https://media-exp1.licdn.com/dms/image/C4D03AQFWMVa6qahy5Q/profile-displayphoto-shrink_800_800/0/1596661064076?e=1617840000&v=beta&t=QGteJrxLl5jsPF79co8hcdmaHF24LK0Bl-O7cRRhY7g
 
     
-    email: 321mulville@gmail.com
-    # phone: 954 297 3940 
-    # website: asd.com 
-    linkedin: https://www.linkedin.com/in/mark-mulville-5a1b2a85/
+    email: kgthcruz94@gmail.com
+    # phone: 455 445 432 
+   
     
     
     github: 84mulville
@@ -38,6 +36,8 @@ basic_info:
     
     languages:
       - idiom: English
+        level: b1
+     - idiom: Spanish
         level: Native
 
     
